@@ -6,5 +6,6 @@
 	$apps[$x]['menu'][0]['category'] = 'internal';
 	$apps[$x]['menu'][0]['path'] = '/app/cdr/v_cdr.php';
 	$apps[$x]['menu'][0]['groups'][] = 'hidden';
+	$apps[$x]['menu'][0]['title']['cn'] = 'CDR CSV格式';
 
 ?>
